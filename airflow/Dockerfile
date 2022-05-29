@@ -22,11 +22,11 @@ apache-airflow-providers-sqlite \
 apache-airflow-providers-ssh \
 beautifulsoup4 \
 clickhouse-driver \
+pymysql \
 dataclasses \
 DBUtils \
 elasticsearch \ 
 fastapi \
-graphviz \
 mysql-connector-python \
 mysqlclient \
 openpyxl==3.0.7 \
@@ -42,7 +42,5 @@ requests \
 SQLAlchemy \
 supervisor \
 swagger-ui-bundle \
-virtualenv \
-virtualenvwrapper \ 
 xlrd==1.2.0 \
 ibm_db
